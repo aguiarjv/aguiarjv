@@ -19,7 +19,6 @@
   <li>Docker</li> 
   <li>Git</li> 
   <li>MQL5</li> 
-  <br>
   <br>I'm not afraid of taking challeging projects and building smart solutions, after all that's what makes us grow as  software developers.</p>
 
 ###
