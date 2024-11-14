@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a Fullstack Developer that loves technology and the financial markets<br><br>I have experience with the following technologies:<br>
+<p align="left">I'm a Fullstack Developer who loves technology and the financial markets.<br><br>I have experience with the following technologies:<br>
   <li>Python</li> 
   <li>Typescript</li> 
   <li>Django and Django REST Framework</li> 
@@ -19,7 +19,7 @@
   <li>Docker</li> 
   <li>Git</li> 
   <li>MQL5</li> 
-  <br>I'm not afraid of taking challenging projects and building smart solutions, after all that's what makes us grow as  software developers.</p>
+  <br>I'm not afraid of taking on challenging projects and building smart solutions after all that's what makes us grow as software developers.</p>
 
 ###
 
